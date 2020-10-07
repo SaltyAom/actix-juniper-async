@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Chiffon",
+        "kind": "MacBook",
+        "technical": "MacBook Pro 2019 13",
+        "color": "white",
+        "storage": 512
+    },
+    {
+        "name": "SaltyAom",
+        "kind": "iPhone",
+        "technical": "iPhone Xs",
+        "color": "white",
+        "storage": 256
+    },
+    {
+        "name": "Ras",
+        "kind": "Airpod",
+        "technical": "Airpod 2nd Generation",
+        "color": "white",
+        "storage": 0
+    },
+    {
+        "name": "SaltyAI",
+        "kind": "iPad",
+        "technical": "iPad Pro 2020 256GB",
+        "color": "white",
+        "storage": 256
+    }
+]
